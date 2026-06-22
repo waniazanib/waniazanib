@@ -1,87 +1,30 @@
-
-                                                                                                    
-                                             ######%%####@                                          
-                                           *#%%%%%%%%%#===#@                                        
-                                         %#%%%%@@@@@%+=------                                       
-                                        @%%@@@@@@@@%+==----=**                                      
-                                        %@@@@@@@@@@#=-=*%%+=*#                                      
-                                        @%@@@@@@@@@#+%#*%*+=--:                                     
-                                        @%@@@@@@@@@#++++=-------                                    
-                                        @@@@@@@@@@%*==----++*+=*                                    
-                                        %%@@@@@@@@%#*+===+=++-:-                                    
-                                        %%@@@@@@@@%*++++++===+=-                                    
-                                        %%@@@@@@@*%%*++++==---::                                    
-                                        @@@@@@@@@@@@@%%####**##                                     
-                                         @@@@@@@@@@@@@@@%%#*                                        
-                                          @@@@@@@@@@@@@@@@@%                                        
-                                         ###%%%@@@@@@@@@@@@@%%                                      
-                                      **+=*%%%%@@@@@@@@@@@@@@@@%%#                                  
-                                    +=+***++*@@@@@@@@@@@@@@@@@@@@@@%                                
-                                  =+***#####**#@@@@@@@@@@@@@@%%%%%%###                              
-                                 +==+###%%#####%@@@@@@@%%@@@@@@%%%%%%%@                             
-                                ++=*###%%%%%#####%@@@@@@%%%%%@@@@@@%%%%                             
-                               =+=#%%#%@@%%#=:+####%@@@@@@%%%@@%%%%%%%#                             
-                              %++=+%%%@%@%#-==:+#####%@@@@@@@%%%%%%###%                             
-                              +*=*+%%%@%@@#-+=:=######%@@@@@@@@@@%#%%@%@                            
-                              =+#%%%%%@%@@%%*++#########%@@@@@@@@@@@@%%%                            
-                             +###%%%%%@@@@%%%**##########%@@@@@@@@@%%%%%                            
-                         
-                                                                                                 
-
-
-### `> whoami`
-
-```yaml
-name    : Wania Zanib
-degree  : B.S. Artificial Intelligence — Year 3
-location: Pakistan 🇵🇰
-building: things that detect, generate, classify, predict
-vibe    : curious researcher + obsessive debugger
-aesthetic: pastel meets dark academia
-superpower: catching bugs I wasn't supposed to find
+```                                                                                                 
+                  #####%%%%%##%                  wania zanib --------------------------------------
+                ##%%%%%%%%%#*++*@                OS.........................Windows 11 | Android 16
+              @%%%@@@@@@@@*=======               Degree.......B.S. Artificial Intelligence — Year 3
+              @%@@@@@@@@@#=======+*#             Location...............................Pakistan 🇵🇰 
+             @%@@@@@@@@@%+==*%%#+*#%             IDE........................................VS Code 
+             @%@@@@@@@@@%*#%#%%*+==-                                                               
+             @@@@@@@@@@@#****+====--=-           Python, C#, C++..............Languages.Programming 
+              @@@@@@@@@@#+==---+*##=**           PyTorch, TensorFlow, ONNX.............Languages.ML 
+              %@@@@@@@@@#**++++++*=-=            FastAPI,SQL, YAML, JSON.............Languages.Data 
+              %@@@@@@@@%#*++**++++++=            Urdu, English, Punjabi..............Languages.Real  
+              %@@@@@@@%#%#*++*+====---                                                              
+              @@@@@@@@@@@@%%########             -------------------------------------------------- 
+              @@@@@@@@@@@@@@@%%#+                Projects                                          
+               @@@@@@@@@@@@@@@@@@%               Project.Audio.......VoiceGuard — deepfake detector 
+              %%#%%%@@@@@@@@@@@@@@%%             Project.NLP......JobGuard — fake job post detector 
+           ***=*%%%%@@@@@@@@@@@@@@@@@%%#         Projects.Web...DormMate — student housing platform 
+         +++**#**+%@@@@@@@@@@@@@@@@@@@@@%%       Projects.Tool....Bill Split — receipt OCR + settle 
+        +**#######*#@@@@@@@@@@@@@@@%@%%%%##                                                         
+       ==+##%%%%%###%@@@@@@@@@@@@@@@%%%%%%%%     -------------------------------------------------- 
+     +*+*##%%@%%%%%###%@@@@@@%%%%%@@@@@@@%%%     Contact                                             
+    +++#%%%%%@%%%+-=*###%@@@@@@@%%@@@%%%%%%%%    LinkedIn................linkedin.com/in/waniazanib 
+    #+=+%%%%%@@%=====#####%@@@@@@@@%%%%%%%#%%    Email.........................zanibwania@gmail.com 
+    *=**#%%@@@@%=++-=######%@@@@@@@@@@%%%%@@%    GitHub.......................github.com/waniazanib  
+   ++#%%%@%@%@@%%#*+#########%@@@@@@@@@@@@@%%                                                       
+  *###%%%@%@@@@@%%%*##########%@@@@@@@@@%%%%@    -------------------------------------------------- 
+  =##%%%***%@@@@%%%%##########%%+#@@@@@@@%%%%    GITHUB Stats                                                   
+ +==%%%*=*+=%@@@%%%%%####%%%%%%%+#%%@@@%%@@@@@   Repos: 15 ............................Commits : 63   
++#*+%%%@%###%@@+=##%+-=*%%%%%%%%%#+++#@@@@@@%@   Lines of Code .............................172,464
 ```
-
----
-
-### `> cat skills.txt`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d0d1a?style=flat-square&logo=python&logoColor=F4B8C1)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0d1a?style=flat-square&logo=pytorch&logoColor=F4B8C1)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d1a?style=flat-square&logo=tensorflow&logoColor=F4D4B8)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0d1a?style=flat-square&logo=huggingface&logoColor=F4ECB8)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0d1a?style=flat-square&logo=scikitlearn&logoColor=C8F4B8)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d1a?style=flat-square&logo=fastapi&logoColor=B8F4E8)
-![NLP](https://img.shields.io/badge/NLP-0d0d1a?style=flat-square&logo=buffer&logoColor=F4B8C1)
-![RAG](https://img.shields.io/badge/RAG-0d0d1a?style=flat-square&logo=semantic-web&logoColor=D4B8F4)
-![LangChain](https://img.shields.io/badge/LangChain-0d0d1a?style=flat-square&logo=chainlink&logoColor=C8F4B8)
-![ONNX](https://img.shields.io/badge/ONNX-0d0d1a?style=flat-square&logo=onnx&logoColor=F4D4B8)
-![Prisma](https://img.shields.io/badge/Prisma-0d0d1a?style=flat-square&logo=prisma&logoColor=D4B8F4)
-![Docker](https://img.shields.io/badge/Docker-0d0d1a?style=flat-square&logo=docker&logoColor=B8D4F4)
-
-</div>
-
----
-
-### `> ./fun_facts.sh`
-
-```
-🌸  I debug in pastel terminals because aesthetics are non-negotiable
-🎧  Trained a deepfake audio detector — now I trust nothing I hear
-📜  I write architecture docs before writing code. I know. I know.
-🌙  Best commits happen after midnight (Pakistani Standard Time)
-```
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=F4B8C1)](https://linkedin.com/in/waniazanib)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=B8D4F4)](mailto:your@email.com)
-&nbsp;
-<br/>
-<sub>you made it to the bottom. here's a star for your effort ⭐</sub>
-
-</div>
