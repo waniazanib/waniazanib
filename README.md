@@ -1,37 +1,119 @@
-# Wania Zanib
 
-**AI/ML Engineer | Deep Learning & Audio AI | Full-Stack Developer**
+```
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.:::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::-=+**########+-:::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::-=******########*##=:::::::::.:::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::-++*+++++*##########*##-:::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::-++**+=====+*#########**##-::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::=****+++*#*****#########**##-:::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::=*****#%%%%%%%%%%##########***::::::::::::::::::::::::::::::::.::::
+::::::::::::::::::::::::::::::::-+****#%%##********###########*+::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::=****#%#*++++**********###%%##**=-::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::=****#+++++++************##%%@@#*=--::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::-***#+===+++++*****#%%%#####%@@%#+---:::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::+*##=====+++++**#%#%%%%%##*#%@%#*=----:::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::+*#*====++***+***#%##%#*****#%%%#+-----::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::=*##==*#%%%##*++*######***+++#%%#+=-----:::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::-*#%*###%%%##*+=+******++++==#%%#*=------::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::*#@%*+*+*##*++=+*********++=+%%#*=-------:::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::*%%#=++**++++=+*+++#**###*++#%%#+--------::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::-%%#*====++**++**#*****##*++#%%#*=-------::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::-##%#+===+**+==+**####*****+#%%#*=--------:::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::=*##%#*+=+**+++*##*******+*#%%%##+--------:::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::=*##%%*#++++**+++*******++*%@%%##*=-------:::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::+*#%%%%%*+++++++++******#%@@%%%#*=--------::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::+#%%%%#%%#+++++++**##%%%%@%%%%##+=-------::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::=*%%%%%##%@%%##*###%%%%%%@%%%%###++------::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::-+*#%%%%%###%%%%%%%%%%%%%%%%%%%###%*+-----::::::::::::::.:::::::
+::::::::::::::::::::::::::::::::::::=*##%%%%%%%%%%%%%%%%%%%%@@%%%%%%##%%#=-----:::::::::::::::::::::
+::::::::::::::::::::::::::::::::----=*###%%%%##%%%%%%%%%%%%%@%%%%%%%###%%#=----:::::::::::::::::::::
+::::::::::::::::::::::::::.::::=+===+*###%%%%%%%%%%%%%%@@%@@@@%%%%%%##*#%%*======-::::::::::::::::::
+:::::::::::::::::::::::.....::-+**+++*#####%%%%%%%%%%%%%%%%@@@%%%%%%#####%#*+===++*=::::::::::::::::
+::::::::::::::::::::::.....:::-+**++*#######%%%%%%%%%%%%%%%%%%%#%%%%###%%###**++**=-::::::::::::::::
+::::::::::::::::::::...:::.::--*#*++*########%%%%%%%%%%%%%%%%%%#%%%%%##%%%%##***+-:..:::::::::::::::
+:::::::::::::::::::....:::::--=***+*###########%%%%%%%%%%%@@@@%#%%%%%##%%%%%##**=:.....:::::::::::::
+::::::::::::::::::....:--:.:::=+**+#######%%######%%%%%@@@@@@%%#%%%%%##%%%%%###*=:...:::::::::::::::
+:::::::::::::::::::::::--::---=**+*#######**#%%#%%%%%%%%%%%%%%%#%%%%%##%%%%%%###+-.:::::::::::::::::
+::::::::::::::::::.::::------=+****#######*++**#%%%%%%%%%%%%%%%#%%%%%%#%%%%%%###+---::::::::::::::::
+::::::::::::::::::.::::------:+*+*########*+====++#####%@%####%#%%%%%%#%%%%%%###+===-:-:::--::::::::
+:::::::::::::::::::::::-----:=*++*#########+===---=====+++*+*#%#%%%%%%#%%%%%%%##+====----:----::::::
+:::::::::::::::.:.::-::----:-+++*##########*+===--===-===++=+%%%%%%%%%#%%%%%%%##+====---:-------::::
+:::::::::::::::::.::-:----:.++=*############+====------=====*%%%%%%%%%##%%%%%%#*+====-----:-------::
+:::::::::::::::::.::-:--:-:=+-+*############+====------====*#%%#%%%%%%%#%%%%%%##+-=====--::--------:
+:::::::::::::::::.::-:--:::#+=**#######%#####===-------===+##%%%%%%%%%%#%%%%%%##+--====--:----------
+:::::::::::::::::.::-:--::-#++*##############*=--========+*##%%%%%%%%%%#%%%%%%##+=====---:----------
+:::::::::::::::::.::----::+#=+*########%##%%#%*======*%#++*#%%%%%%%%%%%#%%%%%%##======---:----------
+:::::::::::::::::.::----:-#*=+*****###%##%%%%##*+=++==+++*#%%%%%%%%%%%%#%%%%%%#*+-===---:-----------
+:::::::::::::::::.::----:=*=*****#*######%%%%%%%#++++++++#@#%%%%%%%%%%%#%%%%%%#*+-===---:-----------
+::::::::::::::::...:---::=++********####%%%%%%%%%#*++++*%@%#%%%%%%%%%%%#%%%%%%#*+===----:-----------
+::::::::::::::::..::---:-*%++++*******##%%%%%%%%%%%#+*%%%%%%%%%%%%%%%%%#%%%%%%#*====---:::----------
+::::::::::::::::..::---:-##*++++++**#####%%%%%%%%%#%#%@%%@%%%%%%%%%%%%%##%%%%##+===----::-----------
+::::::::::::::::..::--=-=**++=+=+***#####%%%%%%%%%%%%%%%@%#%%%@%%%%%%%%##%%%%##*+=-----:-:----------
+::::::::::::::::..::--=-**+=++***+****##%%%%%%%%%%%#%%#@@%#%%%@%%%%%%%%##%%%%#*+=------:------------
+::::::::::::.:::..:::-==##*************####%%%%%##***%#@@%#%%@@%%%%%%%%##%%%%#*+=-----::------------
+::::::::::::.::::::::-=+*##**+*++*******#####%%%%%%%%%#@@#%%%@%%%%%%%%%##%%%%#+====---:-------------
+::::::::::::.::::::::-=**++++**++******######%%%%%%%%%%@@#%%%@%%%%%%%%%%#%%%#+======--:-------------
+::::::::::::.::::::.:-+*#+++=--=+********####%%%%#**%%%@%%%%%@%%%%%%%%%%#%%%*=======----------------
+```
 
-Third-year B.S. Artificial Intelligence student at National Textile University, Faisalabad, focused on deep learning, audio AI, and applied machine learning systems. I build production-oriented ML pipelines and full-stack applications, with project work spanning audio deepfake detection, multi-modal retrieval, and conversational AI.
+---
 
-## Currently Building
 
-A multi-agent job discovery and outreach pipeline (Python, CrewAI, LangChain, Groq API) that automates lead discovery, contact enrichment, and personalized outreach.
+### `> whoami`
 
-## Featured Projects
+```yaml
+name    : Wania Zanib
+degree  : B.S. Artificial Intelligence — Year 3
+location: Pakistan 🇵🇰
+building: things that detect, generate, classify, predict
+vibe    : curious researcher + obsessive debugger
+aesthetic: pastel meets dark academia
+superpower: catching bugs I wasn't supposed to find
+```
 
-### VoiceGuard: Acoustic Deepfake Detection
-Production-ready audio deepfake detector using a ResNet-18 CNN on CQT spectrograms. Achieves 5.4% EER on ASVspoof 2019 LA (25,380 training / 71,237 evaluation utterances), with GradCAM explainability and a 6.7x inference speedup via ONNX FP16 (2.7ms per prediction).
-**Stack:** Python, PyTorch, ONNX, GradCAM
-[Repository →](https://github.com/waniazanib/VoiceGuard)
+---
 
-### MoodFit: Poetry-to-Outfit Retrieval System
-Multi-modal semantic search system that aligns written prose, poetry, or lyrics with matching apparel. Parses emotional tone with a custom fine-tuned RoBERTa model, maps it into a unified CLIP embedding space, and retrieves matches via FAISS nearest-neighbor search.
-**Stack:** Next.js, FastAPI, PyTorch, HuggingFace Transformers, FAISS, Supabase (pgvector)
-[Repository →](https://github.com/waniazanib/MoodFit)
+### `> cat skills.txt`
 
-### LangChain Chatbot: Conversational AI
-Multi-turn conversational chatbot built with LangChain and Streamlit, powered by Meta's Llama-3-8B-Instruct model via the Hugging Face Serverless Inference API.
-**Stack:** Python, LangChain, Streamlit, Hugging Face
-[Repository →](https://github.com/waniazanib/Langchain-Chatbot)
+<div align="center">
 
-## Tech Stack
+![Python](https://img.shields.io/badge/Python-0d0d1a?style=flat-square&logo=python&logoColor=F4B8C1)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d1a?style=flat-square&logo=pytorch&logoColor=F4B8C1)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d1a?style=flat-square&logo=tensorflow&logoColor=F4D4B8)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0d1a?style=flat-square&logo=huggingface&logoColor=F4ECB8)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0d1a?style=flat-square&logo=scikitlearn&logoColor=C8F4B8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d1a?style=flat-square&logo=fastapi&logoColor=B8F4E8)
+![NLP](https://img.shields.io/badge/NLP-0d0d1a?style=flat-square&logo=buffer&logoColor=F4B8C1)
+![RAG](https://img.shields.io/badge/RAG-0d0d1a?style=flat-square&logo=semantic-web&logoColor=D4B8F4)
+![LangChain](https://img.shields.io/badge/LangChain-0d0d1a?style=flat-square&logo=chainlink&logoColor=C8F4B8)
+![ONNX](https://img.shields.io/badge/ONNX-0d0d1a?style=flat-square&logo=onnx&logoColor=F4D4B8)
+![Prisma](https://img.shields.io/badge/Prisma-0d0d1a?style=flat-square&logo=prisma&logoColor=D4B8F4)
+![Docker](https://img.shields.io/badge/Docker-0d0d1a?style=flat-square&logo=docker&logoColor=B8D4F4)
 
-**Languages:** Python, TypeScript, SQL
-**ML / DL:** PyTorch, HuggingFace Transformers, ONNX, FAISS, Sentence-Transformers
-**Frameworks:** FastAPI, LangChain, Next.js, Streamlit
-**Data / Infra:** Supabase (PostgreSQL + pgvector), Docker, Git
+</div>
 
-## Connect
+---
 
-[LinkedIn](https://linkedin.com/in/wania-zanib/) · [GitHub](https://github.com/waniazanib)
+### `> ./fun_facts.sh`
+
+```
+🌸  I debug in pastel terminals because aesthetics are non-negotiable
+🎧  Trained a deepfake audio detector — now I trust nothing I hear
+📜  I write architecture docs before writing code. I know. I know.
+🌙  Best commits happen after midnight (Pakistani Standard Time)
+```
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=F4B8C1)](https://linkedin.com/in/waniazanib)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=B8D4F4)](mailto:your@email.com)
+&nbsp;
+<br/>
+<sub>you made it to the bottom. here's a star for your effort ⭐</sub>
+
+</div>
